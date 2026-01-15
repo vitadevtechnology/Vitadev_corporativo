@@ -7,5 +7,14 @@
     "password_id": "password",
     "user_val": "gAAAAABpaCL5CcJ8nN3mXzXIPN1XaC3Gq0LOPCl5K902CGiOsthmuwnDLqdhNm-fnjtLkQGAkpWjay7lVS92Pvh_QHcH-l9K6grE8TZOgbBRpOWtw6t-2Q0=",
     "pass_val": "gAAAAABpaCL5IlNdQEGup2n6fC_Y_IlvZnjexjSvyA5hwq36UXQMrHxPUrHiBiRd61WGf-ByjXkLH_N9piyhJhcJDN07UTvy0Q=="
+  },
+  {
+    "nome": "Portal Magofy",
+    "url": "https://ixc.magofy.com.br/central-assinante/",
+    "icone": "magologo.ico",
+    "user_id": "email",
+    "password_id": "password",
+    "user_val": "gAAAAABpaDQGpp7LoqLUxD35YMdh72FiuKbK1sRGMgViLiERKeDRExxnjtUVUEAEw4NsQPDPM73c8J5FwvxKfYD6VthAUHO_7Q==",
+    "pass_val": "gAAAAABpaDQGHS6RMaGK50Kae7VNAt3se-eayiij4WzuqOo7l7bEWWzA9BXc1RA9GN1u-KXR5NFILztYJ82d-A41S9IW_8LZgw=="
   }
 ]
